@@ -1,3 +1,5 @@
+### Warning: this module is not compatible with Electron 1.x
+
 # Installation
 
 ```bash
